@@ -1,5 +1,4 @@
 # Git Learning
-I have no idea what I'm doing here.
-Please go away!
+This is my amazing repository. Here, I'm learning advanced Git concepts.
 
-Please! Go!
+Have a nice week(end) :)
